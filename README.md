@@ -1,0 +1,2 @@
+# ManagerApp
+Test react-native
