@@ -1,4 +1,9 @@
 {
   "name": "ManagerApp",
-  "displayName": "ManagerApp"
+  "displayName": "ManagerApp",
+  "extra": {
+    "eas": {
+      "projectId": "f989ab15-699b-4fd4-803d-d421a58f2d20"
+    }
+  }
 }
